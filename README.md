@@ -9,85 +9,22 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 ## Algorithm
 
 ### Step1:
-<br>
+Import required libraries.
 
 ### Step2:
-<br>
+Read the image and convert it to grayscale then display it.
 
 ### Step3:
-<br>
+Use Global thresholding to segment the image
 
 ### Step4:
-<br>
+Use Adaptive thresholding to segment the image
 
 ### Step5:
-<br>
+Use Otsu's method to segment the image 
 
-## Program
-
-```python
-# Load the necessary packages
-
-
-
-
-
-# Read the Image and convert to grayscale
-
-
-
-
-# Use Global thresholding to segment the image
-
-
-
-
-# Use Adaptive thresholding to segment the image
-
-
-
-
-# Use Otsu's method to segment the image 
-
-
-
-
-# Display the results
-
-
-
-
-
-```
-## Output
-
-### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+### Step6:
+End the program.
 
 
 ## Result
